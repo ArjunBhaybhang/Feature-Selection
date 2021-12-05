@@ -1,2 +1,2 @@
 # Feature-Selection
-Techniques to select optimal features to train a model.
+Techniques to select optimal features for model training.
